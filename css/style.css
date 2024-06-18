@@ -94,3 +94,11 @@ a {
     font-size: 18px;
     color: #f9faf8;
 }
+
+/* -------------------------------- */
+
+.container-small {
+    max-width: 984px;
+    padding: 16px;
+    margin: 0 auto;
+}
