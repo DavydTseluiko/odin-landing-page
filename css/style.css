@@ -8,6 +8,10 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 ul {
@@ -197,6 +201,7 @@ a {
 
 /* -------------------------- */
 .footer {
+  margin-top: auto;
   background-color: #1f2937;
   color: #f9faf8;
   padding: 30px 0;
