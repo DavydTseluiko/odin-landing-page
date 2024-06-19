@@ -140,25 +140,57 @@ a {
 /* ----------------------------- */
 
 .bottom-main-background {
-    background-color: #e5e7eb;
+  background-color: #e5e7eb;
 }
 
 .quotation-section {
-    margin: 100px 0;
-    padding: 0 20px;
+  margin: 100px 0;
+  padding: 0 20px;
 }
 
 .quotation {
-    font-size: 36px;
-    font-weight: 300;
-    font-style: italic;
-    color: #1f2937;
-    margin-bottom: 15px;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+  margin-bottom: 15px;
 }
 
 .quotation-author {
-    font-size: 26px;
-    font-weight: 700;
-    color: #1f2937;
-    text-align: right;
+  font-size: 26px;
+  font-weight: 700;
+  color: #1f2937;
+  text-align: right;
+}
+
+/* ----------------------------------- */
+
+.registration-background {
+  background-color: #3882f6;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 50px 0;
+  color: #f9faf8;
+  margin: 100px 0;
+}
+
+.registration-title {
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.registration-description {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.registration-button {
+  padding: 12px 50px;
+  background-color: transparent;
+  border: 1px solid #f9faf8;
+  color: #f9faf8;
+  border-radius: 10px;
+  cursor: pointer;
 }
