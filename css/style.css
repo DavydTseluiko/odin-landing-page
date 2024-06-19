@@ -136,3 +136,29 @@ a {
 .list-description {
   text-align: center;
 }
+
+/* ----------------------------- */
+
+.bottom-main-background {
+    background-color: #e5e7eb;
+}
+
+.quotation-section {
+    margin: 100px 0;
+    padding: 0 20px;
+}
+
+.quotation {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+    margin-bottom: 15px;
+}
+
+.quotation-author {
+    font-size: 26px;
+    font-weight: 700;
+    color: #1f2937;
+    text-align: right;
+}
